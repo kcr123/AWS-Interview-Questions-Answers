@@ -206,327 +206,167 @@
 
 1. **Q: You cannot store unlimited data in Amazon Web Services…..**
 
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q:** **Rapid provisioning allows you to very quickly spin up a new virtual machine with minimal effort. True or false ?**
-
-    1.  True
-    2.  False
 
     - **Ans:** True
 
 1. **Q: A hybrid setup is one in which part of your resources are AWS and the rest are with another cloud provider. True or False ?**
 
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q:** **As an added layer of security for AWS management, which of the following should be you do ?**
 
-    1.  Create multiple Admin accounts
-    2.  Generate a new security key each time you log in
-    3.  Create IAM users
 
     - **Ans:** Create IAM users
 
 1. **Q: Is AMI template ?**
 
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: EC2 Instances are Virtual Server in AWS**
 
-    1.  True
-    2.  False
-
+  
     - **Ans:** True
 
 1. **Q: What does “elastic” refer to in Elastic Compute Cloud(EC2)? Select all that apply.**
-    1.  Increasing and decreasing capacity as needed
-    2.  Monitoring services on multiple devices
-    3.  Operating on Mac, Windows and Linux
-    4.  Paying only for running virtual machines
-    5.  Stretching applications across virtual machines
-
+   
     - **Ans:** 1. Increasing and decreasing capacity as needed & 4. Paying only for running virtual machines
 
 1. **Q: You can upload a custom configuration virtual image and sell it on the AWS Marketplace. True or false ?**
-
-    1.  True
-    2.  False
 
     - **Ans:** True
 
 1. **Q: EC2 Machine types define which of the following ?**
 
-   1.  AWS Region
-    2.  Core Count
-    3.  User Location
-
     - **Ans:** Core Count
 
 1. **Q: Which is default instance type**
 
-    1.  On-demand
-    2.  RI
-    3.  Spot instance
-
     - **Ans:** On-demand
 
 1. **Q: What is Elastic Computing ?**
-
-    1.  Data will be replicate to different AZs
-    2.  You can spin up and spin down VMs
-    3.  Automatically VMs will be add and remove
-
+  
     - **Ans:** You can spin up and spin down VMs
 
 1. **Q:** **You can upload a custom configuration virtual image and sell it on the AWS Marketplace. True or false ?**
-
-    1.  True
-    2.  False
 
     - **Ans:** True
 
 1. **Q: EC2 Machine types define which of the following ?**
 
-    1.  AWS Region
-    2.  Core Count
-    3.  User Location
-
     - **Ans:** Core Count
 
 1. **Q:** **Which is default instance type**
 
-    1.  On-demand
-    2.  RI
-    3.  Spot instance
-
-    - **Ans:** On-demand
+     - **Ans:** On-demand
 
 1. **Q: What is Elastic Computing ?**
 
-    1.  Data will be replicate to different AZs
-    2.  You can spin up and spin down VMs
-    3.  Automatically VMs will be add and remove
-
-    - **Ans:** You can spin up and spin down VMs
+      - **Ans:** You can spin up and spin down VMs
 
 1. **Q: Can We launch multiple instances with same AMI ?**
-
-    1.  True
-    2.  False
 
     - **Ans:** True
 
 1. **Q: PEM file is one time physical password…**
 
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Windows user required PPK file to connect Linux instance hosted on AWS.**
 
-    1.  True
-    2.  False
-
-    - **Ans:** True
+     - **Ans:** True
 
 1. **Q: You can purchase time on EC2 directly from other users and specify the price you want to pay. True or false ?**
-
-    1.  True
-    2.  False
 
     - **Ans:** True
 
 1. **Q: Which of the following might prevent your EC2 instance from appearing in the list of instances?**
 
-    1.  EC2 is not selected
-    2.  Correct region is not selected
-    3.  AWS marketplace is not selected
-
-    - **Ans:** Correct region is not selected
+       - **Ans:** Correct region is not selected
 
 1. **Q: Which of the following main reason to terminate an unused EC2 instance ?**
-
-    1.  Security Concerns
-    2.  Additional fees
-    3.  Data Loss
 
     - **Ans:** Additional fees
 
 1. **Q: Which AWS service exists only to redundantly cache data and images ?**
 
-    1.  AWS Availability Zones
-    2.  AWS Edge Locations
-    3.  AWS Regions
-
     - **Ans:** AWS Edge Locations
 
 1. **Q: Regions, AZs and Edge Locations all terms are same…**
-
-    1.  True
-    2.  False
 
     - **Ans:** False
 
 1. **Q: AWS every service is available at every regions….**
 
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: Premium support is Available in AWS for Developer, Business & Enterprise level ?**
-
-    1.  True
-    2.  False
 
     - **Ans:** True
 
 1. **Q: Can you add new Debit/Credit card in your AWS Account ?**
 
-    1.  True
-    2.  False
-
-    - **Ans:** True
+     - **Ans:** True
 
 1. **Q: Can you increase micro to large of instance ?**
-
-    1.  True
-    2.  False
 
     - **Ans:** True
 
 1. **Q: On-demand instances is based on a bid mechanism.**
 
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: RI can be sold on the AWS marketplace?**
 
-    1.  True
-    2.  False
-
-    - **Ans:** True
+      - **Ans:** True
 
 1. **Q: Which is default types options in AWS?**
-
-    1.  On-demand
-    2.  RI
-    3.  Spot instance
 
     - **Ans:** On-demand
 
 1. **Q: What are On-demand, RI and Spot instances ? Which instance is best on Production?**
 
-    1.  On-demand
-    2.  RI
-    3.  Depends on Application or Website
-
     - **Ans:** Depends on Application or Website
 
 1. **Q: Which is most expensive options in instance ?**
-
-    1.  On-demand
-    2.  RI
-    3.  Spot instance
-
     - **Ans:** On-demand
 
 1. **Q: Amazon S3  is internet accessible storage via HTTP /HTTPS**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Amazon S3 is not a object level of storage**
-
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: Amazon S3 is storage for the Internet**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Temporary storage access speed is not guaranteed.**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: There is 99.99% SLA(Service Level Agreement) for temporary storage.**
-
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: Ephemeral storage is block-level storage ?**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Single object size is up to 5 TB in Amazon S3.**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: You can create unlimited bucket size in Amazon S3.**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: By default, Instance-Backed and EBS-Backed root volumes delete all data. However, when using EBS-Backed storage, you can configure it to save the data on the root volume. True or false ?**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: You can switch from an Instance-Backed to an EBS-Backed root volume at  any time. True or False ?**
-
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: When using an EBS-Backed machine, you can override the terminate option and save the root volume. True or False ?**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Which of the following is a service of AWS Simple Storage Service(S3)? Select all that apply.**
-
-    1.  Database Indexing
-    2.  File searching
-    3.  Secure Hosting
-    4.  Storage Scaling
-
     - **Ans:** 3. Secure Hosting & 4. Storage Scaling
 
 1. **Q: What’s the difference between instance store and EBS?**
@@ -543,155 +383,70 @@
 
 1. **Q: BS can be attached to any running instance that is in the same Availability Zone ?**
 
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: EBS is  internet accessible**
 
-    1.  True
-    2.  False
-
-    - **Ans:** False
+       - **Ans:** False
 
 1. **Q: EBS has persistent file system for EC2**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q:** **EBS supports incremental snapshots**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Amazon Glacier enables customers to offload the administrative burdens of operating and scaling storage to AWS.**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Amazon Glacier is a great storage choice when low storage cost is paramount.**
-
-    1.  True
-    2.  False
-
-    - **Ans:** True
+     - **Ans:** True
 
 1. **Q: Data is rarely retrieved, and retrieval latency of several hours is acceptable in Glacier**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Glacier is basically for data archival**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: It is very cheap storage**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: Glacier has very, very slow retrieval times**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: By Default, Instance-Backed and EBS-Backed root volumes delete all data. However, when using EBS-Backed storage, you can configure it to save the data on the root volume.**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: You can switch from an Instance-Backed to an EBS-Backed root volume at any time.**
-
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: When using an EBS-Backed machine, you can override the terminate option and save the root volume.**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: VPC is Private, Isolated, Virtual Network**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: VPC would be logically isolated network in AWS cloud**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: VPC is also give control of network architecture**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: VPC is also going to enhanced security**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: VPC has ability to interwork with other organizations**
-
-    1.  True
-    2.  False
-
     - **Ans:** True
 
 1. **Q: VPC does not enable hybrid cloud(site-to-site VPN)**
-
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: Route Table is a set of Rules tells the direction of network**
-
-    1.  True
-    2.  False
-
-    - **Ans:** True
+ - **Ans:** True
 
 1. **Q: Security Group is a subnet level of security**
-
-    1.  True
-    2.  False
-
     - **Ans:** False
 
 1. **Q: NACLs(Network Access Lists) is a resource level of security**
-
-    1.  True
-    2.  False
 
     - **Ans:** False
 
@@ -726,208 +481,80 @@
     - **Ans:**
 
 1. **Q: What is the name to the additional network interfaces that can be created and attached to any Amazon EC2 instance in your VPC?**
-
-    1.  Elastic IP
-    2.  Elastic Network Interface
-    3.  AWS Elastic Interface
-    4.  AWS Network ACL
-
     - **Ans:** Elastic Network Interface
 
 1. **Q: You have configured ELB with three instances connected to that. If your instances are unhealthy or terminated, the traffic should be automatically replaced to another instance, what type of service can be used to achieve this requirement?**
 
-    1.  Sticky session
-    2.  Fault Tolerance
-    3.  Connection drainage
-    4.  Monitoring
-
-    - **Ans:** Fault Tolerance
+   - **Ans:** Fault Tolerance
 
 1. **Q: After configuring ELB, you need to ensure that the user requests are always attached to a single instance. What setting can you use?**
-
-    1.  Session cookie
-    2.  Cross one load balancing
-    3.  Connection drainage
-    4.  Sticky session
-
     - **Ans:** Sticky session
 
 1. **Q: Which of the following metrics cannot have a cloud watch alarm?**
-
-    1.  EC2 instance status check failed
-    2.  EC2 CPU utilization
-    3.  RRS lost object
-    4.  Auto scaling group CPU utilization
-
     - **Ans:** RRS lost object
 
 1. **Q: Which of the below mentioned service is provided by Cloud watch?**
-
-    1.  Monitor estimated AWS usage
-    2.  Monitor EC2 log files
-    3.  Monitor S3 storage
-    4.  Monitor AWS calls using Cloud trail
-
     - **Ans:** Monitor estimated AWS usage
 
 1. **Q: A user has Launched an EC2 instance which of the below mentioned statements is not true respect to instance addressing?**
-
-    1.  The private IP addresses are not reachable from the internet
-    2.  The user can communicate using the private IP across regions
-    3.  The private IP address and pubic IP address for an instance are directly mapped to each other using NAT
-    4.  The private IP address for the instance is assigned using DHCP
-
     - **Ans:** The user can communicate using the private IP across regions
 
 1. **Q: Which of the following service provides the edge – storage or content delivery system that caches data at different locations?**
-
-    1.  Amazon RDS
-    2.  Simple DB
-    3.  Amazon Cloud Front
-    4.  Amazon associates web services
-
     - **Ans:** Amazon Cloud Front
 
 1. **Q: A user is launching an instance under the free usage tier from the AMI with a snapshot size of 50 GB. How can the user launch the instance under the free usage tier?**
-
-    1.  Launch a micro instance
-    2.  Launch a micro instance, but in the EBS configuration modify the size of EBS to 50 GB.
-    3.  Launch a micro instance, but do not store the data of more than 30 GB on the EBS storage.
-    4.  It is not possible to have this instance under the free usage tier
-
     - **Ans:** It is not possible to have this instance under the free usage tier
 
 1. **Q: What are the possible connection issues you can face while connecting to your instance?**
-
-    1.  Connection timed out
-    2.  Server refused our key
-    3.  No supported authentication methods available
-    4.  All of the above
-
     - **Ans:** All of the above
 
 1. **Q: You are enabled sticky session with ELB. What does it do with your instance?**
-
-    1.  Routes all the requests to a single DNS
-    2.  Binds the user session with a specific instance
-    3.  Binds the user IP with a specific session
-    4.  Provides a single ELB DNS for each IP address
-
     - **Ans:** Binds the user session with a specific instance
 
 1. **Q: Which is a main email platform that provides an easy, cost effective way for you to send compliance and receive a response using your own email address and domains?**
-
-    1.  SES
-    2.  SNS
-    3.  SQS
-    4.  SAS
-
     - **Ans:** SES
 
 1. **Q: Which type of load balancer makes routing decisions at either the transport layer or the application layer and supports either EC2 or VPC.**
-
-    1.  Application Load Balancer
-    2.  Classic Load Balancer
-    3.  Primary Load Balancer
-    4.  Secondary Load Balancer
 
     - **Ans:** Classic Load Balancer
 
 1. **Q: AWS Cloud Front has been configured to handle the customer requests to the web server launched in Linux machine. How many requests per second can Amazon Cloud Front handle?**
 
-    1.  1000
-    2.  100
-    3.  10000
-    4.  There is no such limit
-
     - **Ans:** There is no such limit
 
 1. **Q: You are going to launched one instance with security group. While configuring security group, what are the things you have to select?**
-
-    1.  Protocol and type
-    2.  Port
-    3.  Source
-    4.  All of the above
-
     - **Ans:** Source
 
 1. **Q: Which is virtual network interface that you can attach to an instance in a VPC?**
-
-    1.  Elastic IP
-    2.  AWS Elastic Interface
-    3.  Elastic Network Interface
-    4.  AWS Network ACL
-
     - **Ans:** Elastic Network Interface
 
 1. **Q: You have launched a Linux instance in AWS EC2. While configuring security group, you have selected SSH, HTTP, HTTPS protocol. Why do we need to select SSH?**
 
-    1.  To verity that there is a rule that allows traffic from your computer to port 22
-    2.  To verify that there is a rule that allows traffic from EC2 Instance to your computer
-    3.  Allows web traffic from instance to your computer
-    4.  Allows web traffic from your computer to EC2 instance
-
-    - **Ans:** To verify that there is a rule that allows traffic from EC2 Instance to your computer
+       - **Ans:** To verify that there is a rule that allows traffic from EC2 Instance to your computer
 
 1. **Q: You need to quickly set up an email service because a client needs to start using it in the next hour. Amazon service seems to be the logical choice but there are several options available to set it up. Which of the following options to set up AWS service would best meet the needs of the client?**
-
-    1.  Amazon SES console
-    2.  AWS Cloud Formation
-    3.  SMTP interface
-    4.  AWS Elastic Beanstalk
 
     - **Ans:** Amazon SES console
 
 1. **Q:You have chosen a windows instance with Classic and you want to make some change to the security group. How will these changes be effective?**
 
-    1.  Security group rules cannot be changed
-    2.  Changes are automatically applied to windows instances
-    3.  Changes will be effective after rebooting the instance in that security group
-    4.  Changes will be effective after 24-hours
-
     - **Ans:** Changes are automatically applied to windows instances
 
 1. **Q: Load Balancer and DNS service comes under which type of cloud service?**
-
-    1.  IAAS-Network
-    2.  IAAS-Computational
-    3.  IAAS-Storage
-    4.  None of the above
-
     - **Ans:** IAAS-Storage
 
 1. **Q: You have an EC2 instance that has an unencrypted volume. You want to create another encrypted volume from this unencrypted volume. Which of the following steps can achieve this?**
-
-    1.  Just simply create a copy of the unencrypted volume, you will have the option to encrypt the volume.
-    2.  Create a snapshot of the unencrypted volume and then while creating a volume from the snapshot you can encrypt it
-    3.  Create a snapshot of the unencrypted volume (applying encryption parameters), copy the snapshot and create a volume from the copied snapshot
-    4.  This is not possible, once a volume is unencrypted, there is no way to create an encrypted volume from this
-
     - **Ans:** Create a snapshot of the unencrypted volume (applying encryption parameters), copy the snapshot and create a volume from the copied snapshot
 
 1. **Q: Where does the user specify the maximum number of instances with the auto scaling commands?**
-
-    1.  Auto scaling Launch Config
-    2.  Auto scaling group
-    3.  Auto scaling policy
-    4.  Auto scaling size
-
     - **Ans:** Auto scaling Launch Config
 
 1. **Q: A user is identify that a huge data download is occurring on his instance he has already set the auto scaling policy to increase the instance count when the network Input Output increase beyond a threshold limits how can the user ensure that this temporary event does not result in scaling**
 
-    1.  The network I/O are not affecting during data download
-    2.  The policy cannot be set on the network I/O
-    3.  There is no way the can stop scaling as it already configured
-    4.  Suspend scaling
-
-    - **Ans:** Suspend scaling
+      - **Ans:** Suspend scaling
 
 1. **Q: Which are the types of AMI provided by AWS?**
 
     1.  EBS Backed
     2.  Instance Store backed
-    3.  None its volume type and not AMI types
-    4.  Both A and B
-
-    - **Ans:** Both A and B
+    
